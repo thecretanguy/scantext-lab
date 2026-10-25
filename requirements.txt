@@ -1,0 +1,11 @@
+# Python 3.11 or 3.12. CPU baseline; see README for CUDA.
+easyocr==1.7.2
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+Pillow==11.1.0
+PyMuPDF==1.25.3
+streamlit==1.42.2
+# Keep Arrow compatible with the NumPy 1.x OCR baseline.
+pyarrow==19.0.1

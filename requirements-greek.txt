@@ -1,0 +1,9 @@
+# Separate worker environment: do not install in the main EasyOCR/Streamlit venv.
+numpy==1.26.4
+Pillow==11.1.0
+opencv-contrib-python==4.10.0.84
+paddlepaddle==3.2.2
+paddleocr==3.3.2
+paddlex==3.3.13
+huggingface-hub==0.36.0
+modelscope==1.31.0
